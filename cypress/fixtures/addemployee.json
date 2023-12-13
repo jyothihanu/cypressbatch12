@@ -1,0 +1,21 @@
+[
+    {
+        "employeename":"raju",
+        "middlename":"ra",
+        "lastname":"g",
+        "employeeid":2
+    },
+    {
+        "employeename":"geetha",
+        "middlename":"gee",
+        "lastname":"g",
+        "employeeid":3
+    },
+    {
+        "employeename":"hanvikaram",
+        "middlename":"hanu",
+        "lastname":"g",
+        "employeeid":4
+        
+    }
+]

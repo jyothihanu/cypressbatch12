@@ -1,5 +1,9 @@
 {
   "dependencies": {
-    "open": "^8.4.1"
+    "open": "^8.4.1",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "cypress-xpath": "^2.0.1"
   }
 }

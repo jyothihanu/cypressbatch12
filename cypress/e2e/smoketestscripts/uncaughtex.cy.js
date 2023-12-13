@@ -1,5 +1,5 @@
 
- /// <reference types="cypress" />
+
 
  describe("select box", () => {
 

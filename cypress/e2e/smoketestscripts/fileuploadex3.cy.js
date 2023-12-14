@@ -9,6 +9,7 @@ describe('Automation - File Upload Example - 3', function () {
       });
   
       cy.visit('https://the-internet.herokuapp.com/upload');
+      cy.visit('https://the-internet.herokuapp.com/upload');
 
       cy.get('#file-upload').attachFile('module1/pink nature image.jpg');
       

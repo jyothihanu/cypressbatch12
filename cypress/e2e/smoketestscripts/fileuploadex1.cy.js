@@ -1,5 +1,4 @@
 
-///<reference types="cypress"/>
 
 describe('Automation - File Upload Example', function () {
 

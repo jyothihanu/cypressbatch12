@@ -41,7 +41,7 @@ describe('Validate Orange HRM Login functionality', function() {
 
   })
 
-  it('Validate Myinfo page ', function () {
+  it.only('Validate Myinfo page ', function () {
 
 
     cy.visit("/web/index.php/pim/viewMyDetails")

@@ -16,9 +16,23 @@ describe('api automation',function(){
         })
     })
 
-    it('api POST method',function(){
+    it.only('api PUT method',function(){
         cy.request({
-            method:''
+            method:'PUT',
+            url:'https://opensource-demo.orangehrmlive.com/web/index.php/api/v2/pim/employees/53/personal-details',
+          headers:{
+            'Cookie':'orangehrm=57b8cf38aa875823f1b017a5f3e34ca9',
+            'Host':'opensource-demo.orangehrmlive.com',
+            'Referer':'https://opensource-demo.orangehrmlive.com/web/index.php/pim/viewPersonalDetails/empNumber/53',
+                       
+          },
+          body:{firstName
+            : 
+            "aniket s"}
+
+        }).then((putreq)=>{
+            expect(putreq.status).to.equal(200)
+            cy.log(putreq.body)
         })
     })
 })

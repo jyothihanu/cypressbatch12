@@ -1,0 +1,360 @@
+{
+  "data": [
+    {
+      "empNumber": 61,
+      "lastName": "Karst",
+      "firstName": "Dina",
+      "middleName": "Blake",
+      "employeeId": "6069",
+      "terminationId": null,
+      "jobTitle": {
+        "id": null,
+        "title": null,
+        "isDeleted": null
+      },
+      "subunit": {
+        "id": null,
+        "name": null
+      },
+      "empStatus": {
+        "id": 1,
+        "name": "Freelance"
+      },
+      "supervisors": []
+    },
+    {
+      "empNumber": 57,
+      "lastName": "Johnson",
+      "firstName": "Emily",
+      "middleName": "Rose",
+      "employeeId": "0266",
+      "terminationId": null,
+      "jobTitle": {
+        "id": null,
+        "title": null,
+        "isDeleted": null
+      },
+      "subunit": {
+        "id": null,
+        "name": null
+      },
+      "empStatus": {
+        "id": null,
+        "name": null
+      },
+      "supervisors": []
+    },
+    {
+      "empNumber": 58,
+      "lastName": "Thieke",
+      "firstName": "Helene",
+      "middleName": "River",
+      "employeeId": "9444",
+      "terminationId": null,
+      "jobTitle": {
+        "id": null,
+        "title": null,
+        "isDeleted": null
+      },
+      "subunit": {
+        "id": null,
+        "name": null
+      },
+      "empStatus": {
+        "id": null,
+        "name": null
+      },
+      "supervisors": []
+    },
+    {
+      "empNumber": 59,
+      "lastName": "Walther",
+      "firstName": "Lucian",
+      "middleName": "Arden",
+      "employeeId": "3561",
+      "terminationId": null,
+      "jobTitle": {
+        "id": null,
+        "title": null,
+        "isDeleted": null
+      },
+      "subunit": {
+        "id": null,
+        "name": null
+      },
+      "empStatus": {
+        "id": null,
+        "name": null
+      },
+      "supervisors": []
+    },
+    {
+      "empNumber": 62,
+      "lastName": "Herms",
+      "firstName": "Ludwig",
+      "middleName": "Kyle",
+      "employeeId": "1089",
+      "terminationId": null,
+      "jobTitle": {
+        "id": null,
+        "title": null,
+        "isDeleted": null
+      },
+      "subunit": {
+        "id": null,
+        "name": null
+      },
+      "empStatus": {
+        "id": null,
+        "name": null
+      },
+      "supervisors": []
+    },
+    {
+      "empNumber": 60,
+      "lastName": "Terlecki",
+      "firstName": "Maya",
+      "middleName": "Reign",
+      "employeeId": "6333",
+      "terminationId": null,
+      "jobTitle": {
+        "id": null,
+        "title": null,
+        "isDeleted": null
+      },
+      "subunit": {
+        "id": null,
+        "name": null
+      },
+      "empStatus": {
+        "id": null,
+        "name": null
+      },
+      "supervisors": []
+    },
+    {
+      "empNumber": 7,
+      "lastName": "manuel",
+      "firstName": "sam",
+      "middleName": "s",
+      "employeeId": "452673",
+      "terminationId": null,
+      "jobTitle": {
+        "id": 23,
+        "title": "HR Manager",
+        "isDeleted": false
+      },
+      "subunit": {
+        "id": 13,
+        "name": "Human Resources"
+      },
+      "empStatus": {
+        "id": 3,
+        "name": "Full-Time Permanent"
+      },
+      "supervisors": []
+    },
+    {
+      "empNumber": 63,
+      "lastName": "Joshi",
+      "firstName": "Shyam",
+      "middleName": "Pankaj",
+      "employeeId": "0272",
+      "terminationId": null,
+      "jobTitle": {
+        "id": 8,
+        "title": "QA Lead",
+        "isDeleted": false
+      },
+      "subunit": {
+        "id": 5,
+        "name": "Quality Assurance"
+      },
+      "empStatus": {
+        "id": 3,
+        "name": "Full-Time Permanent"
+      },
+      "supervisors": []
+    },
+    {
+      "empNumber": 48,
+      "lastName": "hrm",
+      "firstName": "test",
+      "middleName": "mm",
+      "employeeId": "0256",
+      "terminationId": null,
+      "jobTitle": {
+        "id": null,
+        "title": null,
+        "isDeleted": null
+      },
+      "subunit": {
+        "id": null,
+        "name": null
+      },
+      "empStatus": {
+        "id": null,
+        "name": null
+      },
+      "supervisors": []
+    },
+    {
+      "empNumber": 52,
+      "lastName": "s",
+      "firstName": "testing",
+      "middleName": "",
+      "employeeId": "0261",
+      "terminationId": null,
+      "jobTitle": {
+        "id": null,
+        "title": null,
+        "isDeleted": null
+      },
+      "subunit": {
+        "id": null,
+        "name": null
+      },
+      "empStatus": {
+        "id": null,
+        "name": null
+      },
+      "supervisors": []
+    },
+    {
+      "empNumber": 39,
+      "lastName": "Kohli",
+      "firstName": "Virat",
+      "middleName": "",
+      "employeeId": "0249",
+      "terminationId": null,
+      "jobTitle": {
+        "id": null,
+        "title": null,
+        "isDeleted": null
+      },
+      "subunit": {
+        "id": null,
+        "name": null
+      },
+      "empStatus": {
+        "id": null,
+        "name": null
+      },
+      "supervisors": []
+    },
+    {
+      "empNumber": 68,
+      "lastName": "عبدالملکی",
+      "firstName": "توران",
+      "middleName": "Gray",
+      "employeeId": "4574",
+      "terminationId": null,
+      "jobTitle": {
+        "id": null,
+        "title": null,
+        "isDeleted": null
+      },
+      "subunit": {
+        "id": null,
+        "name": null
+      },
+      "empStatus": {
+        "id": null,
+        "name": null
+      },
+      "supervisors": []
+    },
+    {
+      "empNumber": 67,
+      "lastName": "مصباح‌زاده",
+      "firstName": "زاد چهر",
+      "middleName": "August",
+      "employeeId": "6955",
+      "terminationId": null,
+      "jobTitle": {
+        "id": null,
+        "title": null,
+        "isDeleted": null
+      },
+      "subunit": {
+        "id": null,
+        "name": null
+      },
+      "empStatus": {
+        "id": null,
+        "name": null
+      },
+      "supervisors": []
+    },
+    {
+      "empNumber": 64,
+      "lastName": "مصباح‌زاده",
+      "firstName": "سانیار",
+      "middleName": "North",
+      "employeeId": "3678",
+      "terminationId": null,
+      "jobTitle": {
+        "id": null,
+        "title": null,
+        "isDeleted": null
+      },
+      "subunit": {
+        "id": null,
+        "name": null
+      },
+      "empStatus": {
+        "id": null,
+        "name": null
+      },
+      "supervisors": []
+    },
+    {
+      "empNumber": 66,
+      "lastName": "کرمانی",
+      "firstName": "پروین",
+      "middleName": "Logan",
+      "employeeId": "9947",
+      "terminationId": null,
+      "jobTitle": {
+        "id": null,
+        "title": null,
+        "isDeleted": null
+      },
+      "subunit": {
+        "id": null,
+        "name": null
+      },
+      "empStatus": {
+        "id": null,
+        "name": null
+      },
+      "supervisors": []
+    },
+    {
+      "empNumber": 65,
+      "lastName": "قهرمان",
+      "firstName": "گلرنگ",
+      "middleName": "Rory",
+      "employeeId": "8987",
+      "terminationId": null,
+      "jobTitle": {
+        "id": null,
+        "title": null,
+        "isDeleted": null
+      },
+      "subunit": {
+        "id": null,
+        "name": null
+      },
+      "empStatus": {
+        "id": null,
+        "name": null
+      },
+      "supervisors": []
+    }
+  ],
+  "meta": {
+    "total": 16
+  },
+  "rels": []
+}

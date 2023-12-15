@@ -1,7 +1,7 @@
-/// <reference types="cypress" />
+
 
 context('Actions', () => {
-  beforeEach(() => {
+  beforeEach(() => {//guyjhgy
     cy.visit('https://example.cypress.io/commands/actions')
   })
 
